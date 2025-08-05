@@ -5,29 +5,19 @@
     <meta name="author" content="singularity">
     <meta name="description" content="This is my first page">
     
-    <title>My First Web Page</title>
+    <title>shrwma shaz</title>
     <link rel="icon" href="html5.png" type="image/x-icon">
     <link rel="stylesheet" href="main.css" type="text/css">
 </head>
 
 <body>
-    <h1>Welcome to My Website</h1>
+    <h1>Hallo Mr.Ziad</h1>
     
-    <h2>About This Page</h2>
-    <p>This is my first web page created with HTML and CSS.</p>
+    <h2>the best fish i ever seen</h2>
+    <p><strong>kawi el stamina</strong></p>
     
-    <h3>Features</h3>
-    <ul>
-        <li>Clean and simple design</li>
-        <li>Dark theme styling</li>
-        <li>Responsive layout</li>
-    </ul>
-    
-    <hr>
-    
-    <footer>
-        <p>&copy; 2024 My First Website</p>
-    </footer>
+    <h3><strong>kawi el stamina</strong></h3>
 </body>
 
 </html>
+
